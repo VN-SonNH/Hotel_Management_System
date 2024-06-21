@@ -8,5 +8,9 @@
  * @author lenovo
  */
 public class Person {
+    private String Id;
+    private String name;
+    private String phoneNumber;
+    private String Address;
     
 }
